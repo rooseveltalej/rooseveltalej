@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ropereztec
 - 👀 I’m interested in learn and improve my developer skills 
-- 🌱 I’m currently learning python, c++, c
+- 🌱 I’m currently learning python
 - 📫 How to reach me roperez@estudiantec.cr
 
 <!---
