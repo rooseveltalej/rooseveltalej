@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ropereztec
 - 👀 I’m interested in learn and improve my developer skills 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++ and Java
 - 👨🏽‍💻 I’m currently studying in Costa Rica Institute of Technology
 - 📫 How to reach me roperez@estudiantec.cr
 
