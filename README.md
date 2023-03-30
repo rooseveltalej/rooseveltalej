@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roosevelt Alejandro</h1>
 <h3 align="center">A student of Software Engineering</h3>
 
-- 🔭 I'm currently studying in **Costa Rica Institute of Technology**
+- I really like to keep an eye on new technologies and find ways to implement them in my daily use. I am interested in backend development, currently, in a self-taught way, I am learning JAVA and its technologies (Java, Java EE, Hibernate and Spring (Spring Boot)).
 
-- 🌱 I’m currently learning **C++, Java and Python**
+- Also, in a self-taught way I am learning to use python in a deeper way, using technologies such as: Tkinter, Pyside, Django, Flask, SQL, among others.
 
-- 📝 I regularly write articles on [https://medium.com/@ropereztec](https://medium.com/@ropereztec)
-
-- 📫 How to reach me **ropereztec@gmail.com and roperez@estudiantec.cr**
-
-- ⚡ Fun fact: **Until recently I started in the world of software development**
+- However, I am not only interested in learning backend development, I am also interested in frontend development. I am currently learning technologies in this field such as: HTML, CSS, SASS, Workflows, JavaScript, Fetch, PHP, among others.
