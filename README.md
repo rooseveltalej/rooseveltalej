@@ -7,4 +7,7 @@
 
 - However, I am not only interested in learning backend development, I am also interested in frontend development. I am currently learning technologies in this field such as: HTML, CSS, SASS, Workflows, JavaScript, Fetch, PHP, among others.
 
-![Thank you!](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="example">
+</div>
+
