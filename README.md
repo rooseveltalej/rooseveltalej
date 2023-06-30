@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roosevelt Alejandro</h1>
-<h3 align="center">A student of Software Engineering</h3>
+<h3 align="center"> Student of Software Engineering</h3>
 
 I started my career in software development in the second semester of 2022, when I decided to start my university studies in computer science.
 
