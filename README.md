@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roosevelt Alejandro</h1>
-<h3 align="center"> Student of Software Engineering</h3>
+<h3 align="center"> Student of Computer Engineering</h3>
 
-I started my career in software development in the second semester of 2022, when I decided to start my university studies in computer science.
+I started my career in software development in the second semester of 2022, when I decided to start my university studies in computer engineering.
 
 - 🔭 I am interested in backend development, currently, in a self-taught way, I am learning JAVA and its technologies (Java, Java EE, Hibernate and Spring (Spring Boot), Web Services, PrimeFaces).
 
