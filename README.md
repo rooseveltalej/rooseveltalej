@@ -5,7 +5,7 @@ I started my career in software development in the second semester of 2022, when
 
 - 🔭 I am interested in backend development, currently, in a self-taught way, I am learning Java, Python and Swift.
   
-- 💻 However, I am not only interested in learning backend development, I am also interested in frontend development. I am currently learning technologies in this field such as: HTML, CSS, SASS, Workflows, JavaScript, Fetch, PHP, among others.
+- 💻 I am also interested in frontend development. I am currently learning technologies in this field such as: HTML, CSS, SASS, Workflows, JavaScript, Fetch, PHP, among others.
 
 ### Education
 - Bachelor's degree, Computer Engineering in Tecnológico de Costa Rica (Jun. 2022 - Jun. 2027).
