@@ -3,10 +3,8 @@
 
 I started my career in software development in the second semester of 2022, when I decided to start my university studies in computer engineering.
 
-- 🔭 I am interested in backend development, currently, in a self-taught way, I am learning JAVA and its technologies (Java, Java EE, Hibernate and Spring (Spring Boot), Web Services, PrimeFaces).
-
-- 🌱 Also, I am learning to use python in a deeper way, using technologies such as: Tkinter, Pyside, Django, Flask, SQL, among others.
-
+- 🔭 I am interested in backend development, currently, in a self-taught way, I am learning Java, Python and Swift.
+  
 - 💻 However, I am not only interested in learning backend development, I am also interested in frontend development. I am currently learning technologies in this field such as: HTML, CSS, SASS, Workflows, JavaScript, Fetch, PHP, among others.
 
 ### Education
