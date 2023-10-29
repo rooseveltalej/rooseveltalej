@@ -17,6 +17,6 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,css,html,js,swift,idea,vscode,ableton,discord,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,flask,django,postgres,php,java,css,html,js,swift,idea,vscode,ableton,discord,linux)](https://skillicons.dev)
 
 
