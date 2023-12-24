@@ -11,7 +11,7 @@
 - :busts_in_silhouette: I like to do things in a team more than alone, I like to learn from others and of course, meet new people.
 
 ### Education
-- :books: Bachelor's degree, Computer Engineering in Tecnológico de Costa Rica (Jun. 2022 - Jun. 2027).
+- :books: Bachelor's degree, Computer Engineering in Tecnológico de Costa Rica (Jun. 2022 - Dec. 2026).
 
 
 
