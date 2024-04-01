@@ -4,7 +4,7 @@
 ## Some facts about my career
 - :seedling: I started my career in software development in the second semester of 2022, when I decided to start my university studies in computer engineering.
 
-- :computer: Alternately, from my university I am always looking to learn new things related to IT. For example networks, development with backend programming languages like Swift, Python and Java. Web development with technologies like HTML, CSS, JavaScript, PHP among others.
+- :computer: Alternately, from my university I am always looking to learn new things related to IT. For example networks, development with backend programming languages like Swift, Python and Java. Web development with technologies like HTML, CSS, JavaScript, TypeScript, Node.js among others.
 
 ## Some facts about me
 - :minidisc: I really like listening to music, but really A LOT. I can't say I have a favorite genre, however I am almost always listening to alternative music. My favorite musicians at the moment are Gustavo Cerati, Mac Miller, Mac DeMarco and Cuarteto de Nos.
