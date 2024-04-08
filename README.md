@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Roosevelt Alejandro</h1>
-<h3 align="center"> Student of Computer Engineering</h3>
+<h1 align="left">Hi, I'm Roosevelt Alejandro</h1>
+<h3 align="left"> Student of Computer Engineering</h3>
 
 ## Some facts about my career
 - :seedling: I started my career in software development in the second semester of 2022, when I decided to start my university studies in computer engineering.
