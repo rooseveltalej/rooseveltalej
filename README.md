@@ -1,22 +1,24 @@
-<h1 align="left">Hi, I'm Roosevelt Alejandro</h1>
-<h3 align="left"> Student of Computer Engineering</h3>
-
-## Some facts about my career
-- :seedling: I started my career in software development in the second semester of 2022, when I decided to start my university studies in computer engineering.
-
-- :computer: Alternately, from my university I am always looking to learn new things related to IT. For example networks, development with backend programming languages like Swift, Python and Java. Web development with technologies like HTML, CSS, JavaScript, TypeScript, Node.js among others.
-
-## Some facts about me
-- :minidisc: I really like listening to music, but really A LOT. I can't say I have a favorite genre, however I am almost always listening to alternative music. My favorite musicians at the moment are Gustavo Cerati, Mac Miller, Mac DeMarco and Cuarteto de Nos.
-- :busts_in_silhouette: I like to do things in a team more than alone, I like to learn from others and of course, meet new people.
-
-### Education
-- :books: Bachelor's degree, Computer Engineering in Tecnológico de Costa Rica (Jun. 2022 - Dec. 2026).
+<h1 align="left">Hola, soy Roosevelt Alejandro</h1>
+<h3 align="left">Estudiante de ingeniería en computación</h3>
 
 
 
-<h3 align="left">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,html,css,javascript,typescript,nodejs,latex,mysql,idea,pycharm,vscode,discord,linux)](https://skillicons.dev)
+Actualmente, estoy cursando mi bachillerato en ingeniería en computación en el Instituto Tecnológico de Costa Rica.
+Comencé mis estudios en el campo de ciencias de la computación en junio del 2022, y desde ahí ha sido un no parar de aprendizaje.
 
+Gracias a mi formación académica he adquirido una fuente sólida de conocimientos, sin embargo, siempre trato de buscar un aprendizaje que se encuentra más allá de las aulas. Me apasiona complementar mi educación formal con estudios autodidactas, utilizando recursos en línea como Udemy y YouTube para profundizar en diversos temas.
 
+Gracias a estas plataformas, he ampliado mi repertorio de herramientas tecnológicas, adquiriendo y perfeccionando habilidades en lenguajes de programación como Java, Python, JavaScript, TypeScript, así como en tecnologías para el desarrollo web completo, incluyendo Node.js para aplicaciones del lado del servidor, y HTML y CSS para la estructura y diseño del lado del cliente. Este enfoque híbrido de aprendizaje me ha permitido aplicar conocimientos teóricos a proyectos prácticos, mejorando así mi comprensión y habilidades técnicas.
+
+<h3 align="left">Languaje de programación</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript,typescript)](https://skillicons.dev)
+
+<h3 align="left">Herramientas</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=windows,idea,pycharm,vscode,nodejs,mysql,latex,figma,notion)](https://skillicons.dev)
+
+<h3 align="left">FrontEnd</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
