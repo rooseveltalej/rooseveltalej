@@ -11,6 +11,8 @@ Gracias a mi formación académica he adquirido una fuente sólida de conocimien
 
 Gracias a estas plataformas, he ampliado mi repertorio de herramientas tecnológicas, adquiriendo y perfeccionando habilidades en lenguajes de programación como Java, Python, JavaScript, TypeScript, así como en tecnologías para el desarrollo web completo, incluyendo Node.js para aplicaciones del lado del servidor, y HTML y CSS para la estructura y diseño del lado del cliente. Este enfoque híbrido de aprendizaje me ha permitido aplicar conocimientos teóricos a proyectos prácticos, mejorando así mi comprensión y habilidades técnicas.
 
+
+
 <h3 align="left">Languajes de programación</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript,typescript)](https://skillicons.dev)
@@ -22,3 +24,18 @@ Gracias a estas plataformas, he ampliado mi repertorio de herramientas tecnológ
 <h3 align="left">FrontEnd</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
+
+<h3 align="left">Mis cursos actuales en el Instituto Tecnológico de Costa Rica</h3>
+
+- Analisis de algoritmos
+- Bases de Datos I
+- Requerimientos de Software
+
+<h3 align="left">Mis cursos actuales en el Udemy</h3>
+
+- React: De cero a experto (Fernando Herrera)
+- Universidad Java (Ubaldo Acosta)
+- NodeJS: De cero a experto (Fernando Herrera)
+- Universidad Python (Ubaldo Acosta)
+- Desarrollo Web Completo (Juan Pablo De la torre Valdez)
+- Cisco CCNA Fundamentos de Networking para Redes IP (Josep Ricart)
