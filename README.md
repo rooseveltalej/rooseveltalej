@@ -31,7 +31,7 @@ Gracias a estas plataformas, he ampliado mi repertorio de herramientas tecnológ
 - Bases de Datos I
 - Requerimientos de Software
 
-<h3 align="left">Mis cursos actuales en el Udemy</h3>
+<h3 align="left">Mis cursos actuales en Udemy</h3>
 
 - React: De cero a experto (Fernando Herrera)
 - Universidad Java (Ubaldo Acosta)
