@@ -13,15 +13,15 @@ Gracias a estas plataformas, he ampliado mi repertorio de herramientas tecnológ
 
 
 
-<h3 align="left">Languajes de programación</h3>
+<h3 align="left">Languajes de programación (Aprendiendo) </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript,typescript)](https://skillicons.dev)
 
-<h3 align="left">Herramientas</h3>
+<h3 align="left">Herramientas (Aprendiendo) </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=windows,idea,pycharm,vscode,nodejs,mysql,latex,figma,notion)](https://skillicons.dev)
 
-<h3 align="left">FrontEnd</h3>
+<h3 align="left">FrontEnd (Aprendiendo) </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
