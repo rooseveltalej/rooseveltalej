@@ -25,11 +25,12 @@ Gracias a estas plataformas, he ampliado mi repertorio de herramientas tecnológ
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
-<h3 align="left">Mis cursos actuales en el Instituto Tecnológico de Costa Rica</h3>
+<h3 align="left">Mis siguientes cursos en el Instituto Tecnológico de Costa Rica</h3>
 
-- Analisis de algoritmos
-- Bases de Datos I
-- Requerimientos de Software
+- Lenguajes de Programación 
+- Diseño de Software 
+- Bases de datos 2
+- Probabilidades
 
 <h3 align="left">Mis cursos actuales en Udemy</h3>
 
