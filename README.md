@@ -19,7 +19,7 @@ Gracias a estas plataformas, he ampliado mi repertorio de herramientas tecnológ
 
 <h3 align="left">Herramientas (Aprendiendo) </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=windows,idea,pycharm,vscode,nodejs,mysql,latex,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,idea,pycharm,vscode,nodejs,mysql,latex,figma,notion)](https://skillicons.dev)
 
 <h3 align="left">FrontEnd (Aprendiendo) </h3>
 
