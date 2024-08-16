@@ -1,27 +1,24 @@
-<h1 align="left">Hola, soy Roosevelt Alejandro</h1>
-<h3 align="left">Estudiante de ingeniería en computación</h3>
+<h1 align="left">Hi, soy Roosevelt Alejandro</h1>
+<h3 align="left">Computer engineering undergraduate</h3>
+
+
+I am currently pursuing my bachelor's degree in Computer Engineering at the Instituto Tecnológico de Costa Rica. I began my studies in the field of computer science in June 2022, and since then, it's been a continuous journey of learning.
+
+Thanks to my academic background, I have built a solid foundation of knowledge. However, I always seek learning opportunities beyond the classroom. I am passionate about complementing my formal education with self-directed studies, using online resources such as Udemy and YouTube to delve into various topics.
+
+Through these platforms, I have expanded my repertoire of technological tools, acquiring and refining skills in programming languages such as Java, Python, JavaScript, and TypeScript, as well as full-stack web development technologies, including Node.js for server-side applications, and HTML and CSS for client-side structure and design. This hybrid learning approach has allowed me to apply theoretical knowledge to practical projects, thereby enhancing my understanding and technical skills.
 
 
 
-
-Actualmente, estoy cursando mi bachillerato en ingeniería en computación en el Instituto Tecnológico de Costa Rica.
-Comencé mis estudios en el campo de ciencias de la computación en junio del 2022, y desde ahí ha sido un no parar de aprendizaje.
-
-Gracias a mi formación académica he adquirido una fuente sólida de conocimientos, sin embargo, siempre trato de buscar un aprendizaje que se encuentra más allá de las aulas. Me apasiona complementar mi educación formal con estudios autodidactas, utilizando recursos en línea como Udemy y YouTube para profundizar en diversos temas.
-
-Gracias a estas plataformas, he ampliado mi repertorio de herramientas tecnológicas, adquiriendo y perfeccionando habilidades en lenguajes de programación como Java, Python, JavaScript, TypeScript, así como en tecnologías para el desarrollo web completo, incluyendo Node.js para aplicaciones del lado del servidor, y HTML y CSS para la estructura y diseño del lado del cliente. Este enfoque híbrido de aprendizaje me ha permitido aplicar conocimientos teóricos a proyectos prácticos, mejorando así mi comprensión y habilidades técnicas.
-
-
-
-<h3 align="left">Languajes de programación con los que he trabajado </h3>
+<h3 align="left">Programming Languages I've Worked With</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript)](https://skillicons.dev)
 
-<h3 align="left">Herramientas con las que he trabajado </h3>
+<h3 align="left">Tools I've Worked With</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,git,ubuntu,windows,idea,pycharm,vscode,nodejs,mysql,latex,figma,notion)](https://skillicons.dev)
 
-<h3 align="left">Herraminetas Front-end con las que he trabajado </h3>
+<h3 align="left">Front-end Tools I've Worked With</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
