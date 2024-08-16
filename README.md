@@ -1,4 +1,6 @@
-<h1 align="left">Hi, soy Roosevelt Alejandro</h1>
+<h1 align="left">Hi, I'm Roosevelt Alejandro</h1>
+
+
 <h3 align="left">Computer engineering undergraduate</h3>
 
 
