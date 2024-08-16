@@ -24,4 +24,7 @@ Through these platforms, I have expanded my repertoire of technological tools, a
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
+![roosevelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooseveltalej&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooseveltalej&hide_progress=true&theme=dracula)
 
