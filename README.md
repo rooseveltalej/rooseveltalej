@@ -18,7 +18,7 @@ Through these platforms, I have expanded my repertoire of technological tools, a
 
 <h3 align="left">Tools I've Worked With</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,ubuntu,windows,idea,pycharm,vscode,nodejs,mysql,latex,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,ubuntu,vscode,nodejs,mysql,latex,idea,pycharm,figma,notion)](https://skillicons.dev)
 
 <h3 align="left">Front-end Tools I've Worked With</h3>
 
