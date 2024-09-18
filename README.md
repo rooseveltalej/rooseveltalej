@@ -1,31 +1,33 @@
-<h1 align="left">Hi, I'm Roosevelt Alejandro</h1>
+# Hi, I'm Roosevelt Alejandro
+
+### Computer Engineering Student
 
 
-<h3 align="left">Computer engineering undergraduate</h3>
+I'm currently pursuing a Bachelor's in Computer Engineering at the Instituto Tecnológico de Costa Rica (since June 2022).
 
+I enjoy expanding my knowledge through self-learning via platforms like Udemy and YouTube. My skills include:
 
-I am currently pursuing my bachelor's degree in Computer Engineering at the Instituto Tecnológico de Costa Rica. I began my studies in the field of computer science in June 2022, and since then, it's been a continuous journey of learning.
-
-Thanks to my academic background, I have built a solid foundation of knowledge. However, I always seek learning opportunities beyond the classroom. I am passionate about complementing my formal education with self-directed studies, using online resources such as Udemy and YouTube to delve into various topics.
-
-Through these platforms, I have expanded my repertoire of technological tools, acquiring and refining skills in programming languages such as Java, Python, JavaScript, and TypeScript, as well as full-stack web development technologies, including Node.js for server-side applications, and HTML and CSS for client-side structure and design. This hybrid learning approach has allowed me to apply theoretical knowledge to practical projects, thereby enhancing my understanding and technical skills.
-
-
-
-<h3 align="left">Programming Languages I've Worked With</h3>
+<h3 align="left">Languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,javascript)](https://skillicons.dev)
 
-<h3 align="left">Tools I've Worked With</h3>
+<h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,ubuntu,vscode,nodejs,mysql,latex,idea,pycharm,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,ubuntu,vscode,nodejs,mysql,latex)](https://skillicons.dev)
 
-<h3 align="left">Front-end Tools I've Worked With</h3>
+<h3 align="left">Front-end Technologies</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
 
-<h3 align="left">Some of my stats</h3>
 
-![roosevelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooseveltalej&theme=dracula&rank_icon=github&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooseveltalej&hide_progress=true&theme=dracula)
+### Some of my stats
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rooseveltalej&theme=dracula&rank_icon=github&show_icons=true" alt="roosevelt's GitHub stats" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooseveltalej&hide_progress=false&theme=dracula&layout=compact" alt="Top Langs" style="width: 48%;" />
+</div>
+
+
+
+#### Always learning, always building.
