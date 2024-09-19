@@ -17,7 +17,7 @@ I enjoy expanding my knowledge through self-learning via platforms like Udemy an
 
 <h3 align="left">Front-end Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 
 
