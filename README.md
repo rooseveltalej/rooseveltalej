@@ -5,7 +5,7 @@
 
 I'm currently pursuing a Bachelor's in Computer Engineering at the Instituto Tecnológico de Costa Rica (since June 2022).
 
-I enjoy expanding my knowledge through self-learning via platforms like Udemy and YouTube. My skills include:
+I enjoy expanding my knowledge through self-learning via the internet. My skills include:
 
 <h3 align="left">Languages</h3>
 
