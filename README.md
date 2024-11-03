@@ -24,7 +24,7 @@ I am particularly drawn to web application development due to its flexibility an
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,ubuntu,vscode,nodejs,mysql,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,ubuntu,vscode,nodejs,fastapi,mysql,latex)](https://skillicons.dev)
 
 <h3 align="left">Front-end Technologies</h3>
 
