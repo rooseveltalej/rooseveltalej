@@ -28,6 +28,7 @@ I am particularly drawn to web application development due to its flexibility an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h3 align="left">Tools</h3>
 
@@ -49,10 +50,10 @@ I am particularly drawn to web application development due to its flexibility an
 <h3 align="left">Front-end Technologies</h3>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Some of my stats
-
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=rooseveltalej&theme=dracula&rank_icon=github&show_icons=true" alt="roosevelt's GitHub stats" style="width: 48%;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooseveltalej&hide_progress=false&theme=dracula&layout=compact" alt="Top Langs" style="width: 48%;" />
