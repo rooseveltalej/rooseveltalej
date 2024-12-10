@@ -1,8 +1,6 @@
 # Hi, I'm Roosevelt Alejandro
 
 ![Instituto Tecnológico de Costa Rica](https://img.shields.io/badge/Education-Instituto%20Tecnol%C3%B3gico%20de%20Costa%20Rica-blue)
-![Linux](https://img.shields.io/badge/Linux-openSUSE%20Leap%2015.6-3E6B2F?logo=opensuse&logoColor=white)
-![Gnome](https://img.shields.io/badge/Environment-Gnome-5865F2?logo=gnome&logoColor=white)
 ![GitHub followers](https://img.shields.io/github/followers/rooseveltalej?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/rooseveltalej?style=social)
 
@@ -10,8 +8,7 @@
 
 I'm currently pursuing a Bachelor's in Computer Engineering at the Instituto Tecnológico de Costa Rica (since June 2022).
 
-I am passionate about Linux and develop software on openSUSE Leap 15.6 with Gnome.
-
+I am passionate about Linux.
 
 #### Contributions
 
