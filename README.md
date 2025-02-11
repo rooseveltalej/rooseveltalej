@@ -29,7 +29,7 @@ Bachelor's degree student in Computer Engineering at the Instituto Tecnológico 
 ![Actix Web](https://img.shields.io/badge/Actix-B7178C?style=for-the-badge&logo=actix&logoColor=white)
 
 
-<h3 align="left">Databases</h3>
+<h3 align="left">DBMS's</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
