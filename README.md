@@ -3,7 +3,7 @@
 ### 🎓 Computer Engineering Student @ Instituto Tecnológico de Costa Rica  
 🔭 Assistant Developer at ASISTEC • 🌱 Currently diving into compilers, QA, games & web development.
 
----
+
 
 ## 💻 Tech Stack
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
----
+
 
 ## 🚀 What I'm Working On
 
@@ -31,7 +31,7 @@
 
   **Tech Used**: FastAPI, Expo, PostgreSQL
 
----
+
 
 ## 📫 Contact
 
