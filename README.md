@@ -36,4 +36,4 @@
 ## 📫 Contact
 
 Feel free to reach out or connect!  
-[LinkedIn](https://www.linkedin.com/in/rooseveltalej/) • [CV](https://drive.google.com/file/d/1JdVZdL3Kafx3eQWoR8ChMnB4bwl7sMTs/view?usp=sharing) • [Email](mailto:ropereztec@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rooseveltalej/) • [CV](https://drive.google.com/file/d/1uJmeZCeGGd7srOyEoiWHIJBpN1FdQpcW/view?usp=sharing) • [Email](mailto:ropereztec@gmail.com)
