@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Roosevelt Alejandro
 
 ### 🎓 Computer Science Student @ Instituto Tecnológico de Costa Rica  
-🔭 Assistant Developer at ASISTEC • 🌱 Currently diving into compilers, QA, games & web development.
+🔭 Assistant Developer at ASISTEC • 🌱 Currently diving into Software Security, Artificial Intelligence, and Operating Systems.
 
 
 
