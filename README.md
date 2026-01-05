@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Roosevelt Alejandro
 
-### 🎓 Computer Science Student @ Instituto Tecnológico de Costa Rica  
-🔭 Assistant Developer at ASISTEC • 🌱 Currently diving into Software Security, Artificial Intelligence, and Operating Systems.
+### 🎓 Computer Engineering  
+💼 Software Development Intern @ Edintel  
+🚀 Founder @ DEPSURCES  
+🌱 Currently developing **ViveCR**, a platform to discover tourism, cultural, and recreational activities in Costa Rica.
 
-
+---
 
 ## 💻 Tech Stack
 
@@ -19,19 +21,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
-
-
-## 🚀 What I'm Working On
-
-
-- 🛠 **ASISTEC Project**  
-  Contributing to a student productivity platform:
-  - 📌 Activity and event tracking
-  - 📣 Campus-wide broadcast channels
-
-  **Tech Used**: FastAPI, Expo, PostgreSQL
-
-
+---
 
 ## 📫 Contact
 
