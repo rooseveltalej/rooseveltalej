@@ -3,7 +3,7 @@
 ### 🎓 Computer Engineering  
 💼 Software Development Intern @ Edintel  
 🚀 Founder @ DEPSURCES  
-🌱 Currently developing **ViveCR**, a platform to discover tourism, cultural, and recreational activities in Costa Rica.
+🌱 Currently developing a platform to discover tourism, cultural, and recreational activities in Costa Rica.
 
 ---
 
